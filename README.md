@@ -1,5 +1,5 @@
 # examples
 python programming
 
-python ƒvƒƒOƒ‰ƒ€’u‚«ê
-ŠÂ‹«: Win8 64bit
+python place
+environment: Win8 64bit
